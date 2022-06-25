@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597603749 source:c:\users\antor\desktop\computer graphics\mid ass\game\main.cpp
+	"windows.h"
+	<iostream>
+	<thread>
+
